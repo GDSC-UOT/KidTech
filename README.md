@@ -2,7 +2,7 @@
 
 ### An application dedicated to teaching children programming, artificial intelligence, and robotics.
 
-####
+#### This is a project made for Google solution challage 2023.
 
 ## Overview
 
@@ -27,7 +27,8 @@ it includes many section where such as:
 
 ## Our team
 
--
--
--
--
+- Zahraa Dyaa 
+- Mariam Hussien
+- Abdullah Ali
+
+
